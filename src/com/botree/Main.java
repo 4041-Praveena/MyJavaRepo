@@ -18,6 +18,8 @@ public class Main {
 		System.out.println(Main.add(56, 23));
 		System.out.println(Main.add(86, 456));
 		System.out.println(Main.add(56, 43));
+		
+		System.out.println("push");
 	}
 
 }
